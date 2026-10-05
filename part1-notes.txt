@@ -1,0 +1,2 @@
+'5' + 3 gives 53 because Javascript concatenates the string '5' with the number 3, resulting in '53'
+'5' - 3 gives 2 because the minus operator is not defined for strings, so it converts the string to a number and then performs the subtraction.

@@ -1,0 +1,11 @@
+console.log('Hello, Javascript!');
+
+let a = 5;
+let b = 3;
+let c = 2;
+
+console.log(5+3*2); 
+
+console.log('5'+3); 
+
+console.log('5'-3); 
